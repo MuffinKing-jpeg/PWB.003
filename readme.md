@@ -16,7 +16,7 @@ BOM: [BOM](production/bom.csv)
 - 2.5v\<VOUT\<16v
 - Battery charging and protection
 - low quiescent power consumption (In theory, still not tested)
-- OVP, OVP, UVP (as claimed in datasheet for BQ24073RGT)
+- OVP, OCP, UVP (as claimed in datasheet for BQ24073RGT)
 
 ## Connectors
 
