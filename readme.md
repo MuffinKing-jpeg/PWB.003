@@ -7,7 +7,8 @@ Schematics: [Schematics](plots/PWB.003.pdf)
 Mechanical: [Mechanical](plots/PWB.003__Assembly.pdf)  
 BOM: [BOM](production/bom.csv)
 
-![image of pcb](PWB.003.png)
+![top view of pcb](PWB.003.png)
+![bottom view of pcb](PWB.003_bot.png)
 
 ## Key features
 
