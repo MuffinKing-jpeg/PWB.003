@@ -6,3 +6,4 @@ production/backups/
 *.lck
 fp-*
 \#auto_saved_files#
+_autosave-*

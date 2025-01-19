@@ -3,6 +3,21 @@
 PCB for powering something from 1S LI-PO or USB.  
 Uses PMIC with integrated power mux.
 
+Schematics: [Schematics](plots/PWB.003.pdf)  
+Mechanical: [Mechanical](plots/PWB.003__Assembly.pdf)  
+BOM: [BOM](production/bom.csv)
+
+![image of pcb](PWB.003.png)
+
+## Key features
+
+- Configurable output
+- Up to 3.5A input
+- 2.5v\<VOUT\<16v
+- Battery charging and protection
+- low quiescent power consumption (In theory, still not tested)
+- OVP, OVP, UVP (as claimed in datasheet for BQ24073RGT)
+
 ## Connectors
 
 - 5x1 P1.25 for control communication with MCU
@@ -16,3 +31,13 @@ Uses PMIC with integrated power mux.
 
 - BQ24073RGT
 - TPS63070RNMR
+
+## Test results
+
+TBD
+
+## Disclaimer
+
+This hardware design is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or noninfringement. The authors are not responsible for any damages, losses, or issues caused by the use of this design.
+
+You are responsible for ensuring that the design complies with local regulations, safety standards, and any applicable laws.
