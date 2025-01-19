@@ -1,0 +1,8 @@
+# Backups
+*-backups/
+production/backups/
+
+# Lock and cache files
+*.lck
+fp-*
+\#auto_saved_files#
