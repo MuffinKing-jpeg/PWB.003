@@ -5814,7 +5814,7 @@
 			(pintype "passive")
 			(uuid "bb115133-e299-4ae0-a06c-94abb89b947a")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_TC33X_Vertical.wrl"
+		(model "C:/Users/Andrii/Documents/KiCad/LCSC/EasyEDA.3dshapes/RES-ADJ-SMD_3P-L3.8-W3.0-H1.2-P1.90.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5822,7 +5822,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 0 0 90)
 			)
 		)
 	)

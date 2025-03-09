@@ -37,6 +37,12 @@ BOM: [BOM](production/bom.csv)
 
 TBD
 
+## Photos
+
+![photo of pcb inside enclosure](img/ENCLOSED.jpg)
+![top photo of pcb](img/TOP.jpg)
+![bottom photo of pcb](img/BOT.jpg)
+
 ## Disclaimer
 
 This hardware design is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or noninfringement. The authors are not responsible for any damages, losses, or issues caused by the use of this design.
